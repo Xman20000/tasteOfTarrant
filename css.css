@@ -32,7 +32,10 @@ body{
 
 .item img {
     width: 100px;
+    height: 100px;
     margin: 16px 65px;
+    /* border-radius: 50%; */
+
     /* border: blue solid 2px; */
 }
 
@@ -84,13 +87,13 @@ footer {
     font-size: 128px;
 }
 
-.content-left {
+/* .content-left {
 
 }
 
 .content-right {
 
-}
+} */
 
 .temp {
     margin: 0 auto;
@@ -105,8 +108,12 @@ footer {
     }
 
     .item img{
-        width:225px;
-        margin: 20px 100px;
+        width: 125px;
+        height: 125px;
+        margin: 5px 5px;
+        border-color: lightgray;
+        border-style: solid;
+        border-radius: 20%;
     }
 
     .textitem {
