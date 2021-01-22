@@ -53,9 +53,13 @@ header img{
     width: 100%;
 }
 
+.tarrantbanner {
+    width: 50%;
+}
+
 .tarranthead {
     text-align: center;
-    font-size: 32px
+    font-size: 32px;
 }
 
 .tarrantdesc {
@@ -71,6 +75,21 @@ footer {
 .copyright {
     text-align: center;
     padding: 10px 0;
+}
+
+.content {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: 128px;
+}
+
+.content-left {
+
+}
+
+.content-right {
+
 }
 
 .temp {
